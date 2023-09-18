@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vvksharrma
+- 👋 Hi, I’m vivek
 - 💻 Front End Developer
 - 📫 Reach me vvk17sharma@gmail.com
 - 👩‍💻 [Portfilio](https://vvksharrma.github.io/portfolio23/)
